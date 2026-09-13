@@ -16,7 +16,7 @@ dependencies:
 
   # Local Push Notification & Background Execution
   flutter_local_notifications: ^22.3.1
-  timezone: ^0.9.4
+  timezone: ^0.11.1
   workmanager: ^0.6.0
 
   # Sharing & External Launching
