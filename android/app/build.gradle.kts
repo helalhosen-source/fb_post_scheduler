@@ -45,8 +45,3 @@ compileOptions {
 flutter {
     source = "../.."
 }
-}
-
-flutter {
-    source = "../.."
-}
