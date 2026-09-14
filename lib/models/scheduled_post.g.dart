@@ -1,7 +1,11 @@
-// GENERATED CODE - HAND-WRITTEN STUB FOR HIVE ADAPTER
+// GENERATED CODE - DO NOT MODIFY BY HAND
 
-import 'package:hive/hive.dart';
-import 'scheduled_post.dart';
+part of 'scheduled_post.dart';
+
+// **************************************************************************
+// TypeAdapterGenerator
+// **************************************************************************
+
 
 class ScheduledPostAdapter extends TypeAdapter<ScheduledPost> {
   @override
